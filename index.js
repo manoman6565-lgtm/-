@@ -1,4 +1,4 @@
-import { Client } from 'meowsab';
+Ownerfrom 'meowsab';
 import { group, access } from "./system/control.js";
 import UltraDB from "./system/UltraDB.js";
 import sub from './sub.js';
@@ -10,13 +10,13 @@ const client = new Client({
   fromMe: false, 
   owners: [
   // Owner 1
-    { name: "VA", lid: "247579682029763@lid", jid: "201093108392@s.whatsapp.net" },
+    { name: "اݪــٚـٖٖٖٜ̐ـ͜ۥــٚـمـ͇͡ــݪــٚـ‹̷ٰٖ٭̷ٰٖ›ــٚـك اڪـ⃪ﹻـٰٰٰٖٖٖٜ۬ـٰٰٰٖٖٜـ⃪᭓⃟ـ⃪ـازا", lid: "247579682029763@lid", jid: "201093108392@s.whatsapp.net" },
   // Owner 2
-    { name: "emam", lid: "221307316789354@lid", jid: "201093108392@s.whatsapp.net" },
+    { name: "𝘼𝙆𝘼َ𝙕ِ𝘼 𝗘𝗟 َ𝗬𝗢𝗨𝗧َ𝗬𝗢𝗕𝗘𝗥٭ ˒ ᴠͥɪͣᴘͫ", lid: "221307316789354@lid", jid: "201093108392@s.whatsapp.net" },
   // Owner 3
-    { name: "Sukuna", jid: "201033024135@s.whatsapp.net", lid: "50414477168824@lid" },
+    { name: "𓆩𝙏𝙊𝙓َ𝙄𝘾𓆪", jid: "201093108392@s.whatsapp.net", lid: "50414477168824@lid" },
   // Owner 4 
-   { name: "عمورتي", jid: "201050079089@s.whatsapp.net", lid: "51664513925368@lid" }
+   { name: "ماࢪو♡゙𝐒 🇪🇬|🇸🇦", jid: "201093108392@s.whatsapp.net", lid: "51664513925368@lid" }
   ],
   settings: { noWelcome: false },
   commandsPath: './plugins'
